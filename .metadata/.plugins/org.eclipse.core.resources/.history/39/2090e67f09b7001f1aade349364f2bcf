@@ -1,0 +1,17 @@
+package com.ee;
+
+@FunctionalInterface
+interface Addtion
+{
+	void add();
+	
+	
+}
+public class AddtionEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.unary;
+
+public class PreIncrement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int x=10;
+		int y=++x;
+		
+		
+System.out.println(y);
+System.out.println(x);
+System.out.println(++y);//12
+System.out.println(x);
+
+	
+	}
+
+}

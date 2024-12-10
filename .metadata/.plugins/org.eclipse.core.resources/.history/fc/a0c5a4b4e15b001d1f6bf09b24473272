@@ -1,0 +1,13 @@
+
+public class ChickenDetails {
+	
+	static int total_bill=100;
+	
+	
+	void back()
+	{
+		System.out.println("Am coming from Chicken Details");
+		ResturantEx.main(null);
+	}
+
+}

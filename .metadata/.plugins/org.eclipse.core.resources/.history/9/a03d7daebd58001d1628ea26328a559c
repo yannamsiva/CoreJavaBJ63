@@ -1,0 +1,14 @@
+package com.assignment;
+
+public class AssignMentEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+// +=  -= *=  /=  %=  =
+		
+		int x=10;
+	int y=+x;	//int y=x+x;
+	System.out.println(y);
+	}
+
+}

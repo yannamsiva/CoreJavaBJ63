@@ -1,0 +1,25 @@
+package com.assignment;
+
+public class AssignMentEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+// +=  -= *=  /=  %=  =
+		
+		int x=10;
+	x+=10;	//x=x+10;
+	System.out.println(x);//20
+	
+	x-=10;//x=x-10;
+	System.out.println(x);//10
+	
+	x*=2;//x=x*2;
+	System.out.println(x);//20
+	
+	x=x/2;
+	System.out.println(x);
+	
+	
+	}
+
+}

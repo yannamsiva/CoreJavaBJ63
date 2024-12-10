@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class ScannerEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//Read the data from console
+		System.out.println("Hello");
+		System.err.print("Its Ok");
+	}
+
+}

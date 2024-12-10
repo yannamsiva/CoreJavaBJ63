@@ -1,0 +1,12 @@
+
+public class ResturantEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println(ChickenDetails.total_bill);
+
+ChickenDetails details=new ChickenDetails();
+details.back();
+	}
+
+}
